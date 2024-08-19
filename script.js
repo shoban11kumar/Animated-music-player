@@ -12,44 +12,44 @@ const songs = [
     title: "Naa ready",
     name: "leo",
     source:
-      "songs/song1 Naa ready.mp3",
+      "song1 Naa ready.mp3",
   },
   {
     title: "Badass",
     name: "Leo",
     source:
-      "songs/Song 2 badass.mp3",
+      "Song 2 badass.mp3",
   },
   {
     title: "Vaathi coming",
     name: "Master",
     source:
-      "songs/Song3 vaathi.mp3",
+      "Song3 vaathi.mp3",
   },
   {
     title: "Selfie pulla",
     name: "Kaththi",
     source:
-      "songs/Song 4 selfie.mp3",
+      "Song 4 selfie.mp3",
   },
   {
     title: "Aathi",
     name: "kaththi",
     source:
-      "songs/song5 aathi.mp3",
+      "song5 aathi.mp3",
   },
 
   {
     title: "Whistle podu",
     name: "The Greatest Of All Time",
     source:
-      "songs/song6 wistle podu.mp3",
+      "song6 wistle podu.mp3",
   },
   {
     title: "Spark",
     name: "The Greatest Of All Time",
     source:
-      "songs/Song 7 spark.mp3",
+      "Song 7 spark.mp3",
   },
 ];
 
